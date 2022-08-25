@@ -10,6 +10,6 @@ public class EqualString {
         else
             System.out.println("Different String");
 
-    }
+    }   }
 
-}
+
